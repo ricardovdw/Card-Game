@@ -15,7 +15,7 @@ public class Cardgame {
        
         }
 
-        System.out.println("This is a higher/lower cardgame. (Made by Danny)");
+        System.out.println("This is a higher/lower cardgame");
         System.out.println("How To Play: ");
         System.out.println("Playing cards will be shown and you will have to decide whether or not the next card will be higher or lower.");
         System.out.println("For each correct answer 1 point will be given and at the end of the game you total score will be shown.");
